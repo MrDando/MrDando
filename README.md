@@ -1,20 +1,14 @@
 ### Hi there 👋
 
-## TEST
 
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white&color=404254)
 
-<!--
-**MrDando/MrDando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Outside of Coding
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Javascript](https://img.shields.io/badge/-Javascript-100?style=plastic&logo=javascript&color=555555)
+![HTML5](https://img.shields.io/badge/-HTML5-100?style=plastic&logo=html5&color=555555)
+![CSS3](https://img.shields.io/badge/-CSS3-100?style=plastic&logo=css3&color=555555)
+![React](https://img.shields.io/badge/-React-100?style=plastic&logo=React&color=555555)
+![Git](https://img.shields.io/badge/-Git-100?style=plastic&logo=git&color=555555)
+![npm](https://img.shields.io/badge/-npm-100?style=plastic&logo=npm&color=555555)
+![Webpack](https://img.shields.io/badge/-Webpack-100?style=plastic&logo=Webpack&color=555555)
+![Python](https://img.shields.io/badge/-Python-100?style=plastic&logo=Python&color=555555)
