@@ -1,7 +1,5 @@
 ### “Practical” is the word of the day.
-Web Developer with a focus on functionality. While I find styling and presentation of a web app an interesting challenge, what really drives me is creating the underlying logic of a website. For me, understanding how something 'ticks' will always be more interesting than how it looks. I
-always want to know how something works and why it works, before I use it in my projects. And while this makes me 'reinvent the wheel' more often than not, I firmly believe in that one phrase 'Knowledge is power.'
-
+Web Developer with a focus on functionality. While I find styling and presentation of a web app an interesting challenge, what really drives me is creating the underlying logic of a website. For me, understanding how something 'ticks' will always be more interesting than how it looks.
 
 ### Technology
 ![Javascript](https://img.shields.io/badge/-Javascript-100?style=plastic&logo=javascript&color=555555)
