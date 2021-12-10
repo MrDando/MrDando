@@ -11,7 +11,7 @@
 
 I'm a self-taught full-stack web developer who leans a bit more on the backend side of web development. While I find the styling and presentation of a web app an interesting challenge, what really drives me is creating the underlying logic of a website. For me, understanding how something 'ticks' will always be more interesting than how it looks.
 
-I started my programming experience in Python and to this day it remains my favorite language due to its simple syntax. However, at the time I mostly work in Javascript although I recently started switching to typescript.
+I started my programming experience in Python and to this day it remains my favorite programming language due to its simple syntax. However, at the time I mostly work in Javascript although I recently started switching to typescript.
 
 I also have some experience in Fortran, which was a programming language of choice for the Intro to Computer Science course at my University.
 
