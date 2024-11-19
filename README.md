@@ -17,6 +17,6 @@ I'm a Full-stack Web Developer from Croatia with a unique background - I transit
 - PostgreSQL and MongoDB as databases
 - GIS technologies for mapping applications
 
-💡 I love building applications that make a difference - from helping cyclists navigate cross-border routes to enabling municipalities manage waste collection more efficiently.
-
 🌱 I'm passionate about continuous learning and recently deepened my backend expertise through comprehensive Go and DevOps studies.
+
+📄 You can view my full resume [here](https://mrdando.github.io/resume/)
